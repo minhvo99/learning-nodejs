@@ -1,0 +1,25 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhvo99/learning-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "minhvdv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhvo99/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/minhvo99/learning-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
